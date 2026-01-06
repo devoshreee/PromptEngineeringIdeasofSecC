@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/00dfb842-a329-4633-8523-5d981a34facb" />**PROMPT 1:** you are an product designer and a mother. Create a educational product for children and generate an image for it
+**PROMPT 1:** you are an product designer and a mother. Create a educational product for children and generate an image for it
 **OUTPUT:** <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dea58146-0353-42d6-9207-e6cee5fad505" />
 
 
